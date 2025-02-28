@@ -1,5 +1,7 @@
 Hello! This is the README for githubtestraymo, a testing and practice repo. 
 
+Updated something about the Git author.
+
 1
 2
 3
